@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:chat_gpt_sdk/chat_gpt_sdk.dart';
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:velocity_x/velocity_x.dart';
@@ -71,7 +72,7 @@ class _ChatScreenState extends State<ChatScreen> {
   //   }
   // }
   final request =
-         CompleteText(prompt: message.text, model:kTra),
+         CompleteText(prompt: message.text,model: kSecondaryStylusButton),
   }
   void insertNewData(String response, {bool isImage = false}) {
     ChatMessage botMessage = ChatMessage(
