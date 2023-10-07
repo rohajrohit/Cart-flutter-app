@@ -6,19 +6,23 @@
 
 The SmartCatalog Flutter App is your one-stop solution for a seamless tech shopping experience. We've developed a sleek and intuitive user interface that enables users to log in, browse, and effortlessly select tech products. With detailed product information and a streamlined shopping cart, users can make informed decisions and complete secure and convenient payments through Stripe. Stay up-to-date with the latest tech news through our dedicated news section and receive personalized support from our AI chatbot powered by OpenAI.
 
-<div align='center'>
-  <table>
-    <tr>
-      <td><img src='myproject app image/Screenshot (345).png' height='448' width='280'></td>
-      <td><img src='myproject app image/Screenshot (346).png' height='448' width='280'></td>
-      <td><img src='myproject app image/Screenshot (347).png' height='448' width='280'></td>
-    </tr>
-    <tr>
-      <td><img src='myproject app image/Screenshot (348).png' height='448' width='280'></td>
-      <td><img src='myproject app image/Screenshot (349).png' height='448' width='280'></td>
-      <!-- Add more image columns as needed -->
-    </tr>
-  </table>
+## Screenshot
+Here are some of screenshot from the app:
+
+
+
+<div align="center">
+    <div class="image-container">
+        <img align='left' src="new/Screenshot (345).png" height="448" width="340">
+        <img align='right' src="new/Screenshot (346).png" height="448" width="340">
+    </div>
+    <div class="image-container">
+        <img align='left' src="new/Screenshot (347).png" height="448" width="340">
+        <img align='right' src="new/Screenshot (348).png" height="448" width="340">
+    </div>
+    <div class="image-container">
+        <img src="new/Screenshot (349).png" height="448" width="340">
+    </div>
 </div>
 
 ## Features
