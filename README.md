@@ -7,11 +7,18 @@
 The SmartCatalog Flutter App is your one-stop solution for a seamless tech shopping experience. We've developed a sleek and intuitive user interface that enables users to log in, browse, and effortlessly select tech products. With detailed product information and a streamlined shopping cart, users can make informed decisions and complete secure and convenient payments through Stripe. Stay up-to-date with the latest tech news through our dedicated news section and receive personalized support from our AI chatbot powered by OpenAI.
 
 <div align='center'>
-    <img src='my project app image/Screenshot (345).png' height='448' width='210'>
-    <img src='my project app image/Screenshot (346).png' height='448' width='210'>
-    <img src='my project app image/Screenshot (347).png' height='448' width='210'>
-    <img src='my project app image/Screenshot (348).png' height='448' width='210'>
-    <img src='my project app image/Screenshot (349).png' height='448' width='210'>
+  <table>
+    <tr>
+      <td><img src='myproject app image/Screenshot (345).png' height='448' width='210'></td>
+      <td><img src='myproject app image/Screenshot (346).png' height='448' width='210'></td>
+      <td><img src='myproject app image/Screenshot (347).png' height='448' width='210'></td>
+    </tr>
+    <tr>
+      <td><img src='myproject app image/Screenshot (348).png' height='448' width='210'></td>
+      <td><img src='myproject app image/Screenshot (349).png' height='448' width='210'></td>
+      <!-- Add more image columns as needed -->
+    </tr>
+  </table>
 </div>
 
 ## Features
