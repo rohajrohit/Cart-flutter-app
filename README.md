@@ -11,18 +11,21 @@ Here are some of screenshot from the app:
 
 
 
-<div align="center">
-    <div class="image-container">
-        <img align='left' src="new/Screenshot (345).png" height="448" width="340">
-        <img align='right' src="new/Screenshot (346).png" height="448" width="340">
-    </div>
-    <div class="image-container">
-        <img align='left' src="new/Screenshot (347).png" height="448" width="340">
-        <img align='right' src="new/Screenshot (348).png" height="448" width="340">
-    </div>
-    <div class="image-container">
-        <img src="new/Screenshot (349).png" height="448" width="340">
-    </div>
+<div align='center'>
+  <table>
+    <tr>
+      <td><img src='new/Screenshot (345).png' height='448' width='340' ></td>
+      <td><img src='new/Screenshot (346).png' height='448' width='340' ></td>
+    </tr>
+    <tr>
+       <td><img src='new/Screenshot (347).png' height='448' width='340'></td>
+      <td><img src='new/Screenshot (348).png' height='448' width='340'></td>
+    </tr>
+    <tr>
+      <td><img src='new/Screenshot (349).png' height='448' width='340'></td>
+      <!-- Add more image columns as needed -->
+    </tr>
+  </table>
 </div>
 
 ## Features
