@@ -9,13 +9,13 @@ The SmartCatalog Flutter App is your one-stop solution for a seamless tech shopp
 <div align='center'>
   <table>
     <tr>
-      <td><img src='myproject app image/Screenshot (345).png' height='448' width='210'></td>
-      <td><img src='myproject app image/Screenshot (346).png' height='448' width='210'></td>
-      <td><img src='myproject app image/Screenshot (347).png' height='448' width='210'></td>
+      <td><img src='myproject app image/Screenshot (345).png' height='448' width='280'></td>
+      <td><img src='myproject app image/Screenshot (346).png' height='448' width='280'></td>
+      <td><img src='myproject app image/Screenshot (347).png' height='448' width='280'></td>
     </tr>
     <tr>
-      <td><img src='myproject app image/Screenshot (348).png' height='448' width='210'></td>
-      <td><img src='myproject app image/Screenshot (349).png' height='448' width='210'></td>
+      <td><img src='myproject app image/Screenshot (348).png' height='448' width='280'></td>
+      <td><img src='myproject app image/Screenshot (349).png' height='448' width='280'></td>
       <!-- Add more image columns as needed -->
     </tr>
   </table>
