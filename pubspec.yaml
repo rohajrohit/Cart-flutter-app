@@ -69,6 +69,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
+    -myproject app image/
     - assets/images/
     - assets/file/
     - assets/file/catalog.json
